@@ -4,7 +4,7 @@
 📊 Aspiring Data Scientist & Cybersecurity Learner  
 
 ## 🚀 Skills
-- Python
+- Python 
 - R Programming
 - Data Analysis
 - Microsoft Excel
