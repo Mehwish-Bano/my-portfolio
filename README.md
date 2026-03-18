@@ -1,5 +1,18 @@
-# my-portfolio
-# Welcome to My Portfolio  
-## About Me I am Mehwish Bano, a Mathematics student at University of the Punjab with interest in programming and data analysis.  
-## Skills - Python - C++ - MS Excel - Problem Solving  
-## Projects (Coming Soon) Stay tuned for my upcoming projects!
+# 👋 Hi, I'm Mehwish Bano
+
+🎓 Mathematics Graduate from University of the Punjab  
+📊 Aspiring Data Scientist & Cybersecurity Learner  
+
+## 🚀 Skills
+- Python
+- R Programming
+- Data Analysis
+- Microsoft Excel
+- Basic Cybersecurity
+
+## 📌 Projects
+- (Coming Soon...)
+
+## 📫 Contact
+- Email: mehwishbano23@gmail.com
+- GitHub: https://github.com/Mehwish-Bano
